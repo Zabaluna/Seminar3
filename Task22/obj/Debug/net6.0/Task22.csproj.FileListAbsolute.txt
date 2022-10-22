@@ -1,0 +1,15 @@
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar3\Task22\obj\Debug\net6.0\Task22.csproj.AssemblyReference.cache
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar3\Task22\obj\Debug\net6.0\Task22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar3\Task22\obj\Debug\net6.0\Task22.AssemblyInfoInputs.cache
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar3\Task22\obj\Debug\net6.0\Task22.AssemblyInfo.cs
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar3\Task22\obj\Debug\net6.0\Task22.csproj.CoreCompileInputs.cache
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar3\Task22\bin\Debug\net6.0\Task22.exe
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar3\Task22\bin\Debug\net6.0\Task22.deps.json
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar3\Task22\bin\Debug\net6.0\Task22.runtimeconfig.json
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar3\Task22\bin\Debug\net6.0\Task22.dll
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar3\Task22\bin\Debug\net6.0\Task22.pdb
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar3\Task22\obj\Debug\net6.0\Task22.dll
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar3\Task22\obj\Debug\net6.0\refint\Task22.dll
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar3\Task22\obj\Debug\net6.0\Task22.pdb
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar3\Task22\obj\Debug\net6.0\Task22.genruntimeconfig.cache
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar3\Task22\obj\Debug\net6.0\ref\Task22.dll
