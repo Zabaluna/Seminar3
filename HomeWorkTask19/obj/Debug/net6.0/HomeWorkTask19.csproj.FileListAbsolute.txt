@@ -1,0 +1,15 @@
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar3\HomeWorkTask19\obj\Debug\net6.0\HomeWorkTask19.csproj.AssemblyReference.cache
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar3\HomeWorkTask19\obj\Debug\net6.0\HomeWorkTask19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar3\HomeWorkTask19\obj\Debug\net6.0\HomeWorkTask19.AssemblyInfoInputs.cache
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar3\HomeWorkTask19\obj\Debug\net6.0\HomeWorkTask19.AssemblyInfo.cs
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar3\HomeWorkTask19\obj\Debug\net6.0\HomeWorkTask19.csproj.CoreCompileInputs.cache
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar3\HomeWorkTask19\bin\Debug\net6.0\HomeWorkTask19.exe
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar3\HomeWorkTask19\bin\Debug\net6.0\HomeWorkTask19.deps.json
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar3\HomeWorkTask19\bin\Debug\net6.0\HomeWorkTask19.runtimeconfig.json
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar3\HomeWorkTask19\bin\Debug\net6.0\HomeWorkTask19.dll
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar3\HomeWorkTask19\bin\Debug\net6.0\HomeWorkTask19.pdb
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar3\HomeWorkTask19\obj\Debug\net6.0\HomeWorkTask19.dll
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar3\HomeWorkTask19\obj\Debug\net6.0\refint\HomeWorkTask19.dll
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar3\HomeWorkTask19\obj\Debug\net6.0\HomeWorkTask19.pdb
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar3\HomeWorkTask19\obj\Debug\net6.0\HomeWorkTask19.genruntimeconfig.cache
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar3\HomeWorkTask19\obj\Debug\net6.0\ref\HomeWorkTask19.dll
