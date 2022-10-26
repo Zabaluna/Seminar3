@@ -3,10 +3,9 @@
 // A (3,6,8); B (2,1,-7), -> 15.84
 // A (7,-5, 0); B (1,-1,9) -> 11.53
 
-double distance(int userXa, int userYa, int userZa, int userXb, int userYb, int userZb)
+double Distance(int userXa, int userYa, int userZa, int userXb, int userYb, int userZb)
 {
-    double LengthPoints = 0;
-    LengthPoints = Math.Sqrt(Math.Pow((userXa - userXb), 2) + (Math.Pow((userYa - userYb), 2) + (Math.Pow((userZa - userZb), 2))));
+    double LengthPoints = Math.Sqrt(Math.Pow((userXa - userXb), 2) + (Math.Pow((userYa - userYb), 2) + (Math.Pow((userZa - userZb), 2))));
     return LengthPoints;
 }
 
@@ -24,7 +23,7 @@ int userYb = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите Z второй точки ");
 int userZb = Convert.ToInt32(Console.ReadLine());
 
-double dist = distance(userXa, userYa, userZa, userXb, userYb, userZb);
+double dist = Distance(userXa, userYa, userZa, userXb, userYb, userZb);
 
 // double LengthPoints = Math.Sqrt(Math.Pow((userXa - userXb),2) + (Math.Pow((userYa - userYb),2) + (Math.Pow((userZa - userZb),2))));
 
