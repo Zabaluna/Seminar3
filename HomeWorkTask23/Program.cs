@@ -8,6 +8,6 @@ int numbN = Convert.ToInt32(Console.ReadLine());
 
 for (int i = 1; i < numbN; i++)
 {
-    Console.Write($"{i*i*i}, ");
-}
-Console.WriteLine($"{Math.Pow(numbN, 3)}, "); 
+    Console.Write(Math.Pow(i, 3) + ", ");
+} 
+Console.WriteLine($"{Math.Pow(numbN, 3)}, ");
