@@ -3,11 +3,20 @@
 // 3 -> 1, 8, 27 
 // 5 -> 1, 8, 27, 64, 125
 
-Console.WriteLine("Введите целое число ");
+Console.WriteLine("Введите число ");
 int numbN = Convert.ToInt32(Console.ReadLine());
 
-for (int i = 1; i < numbN; i++)
+if (numbN <= 0)
 {
-    Console.Write(Math.Pow(i, 3) + ", ");
-} 
-Console.WriteLine($"{Math.Pow(numbN, 3)}, ");
+    Console.WriteLine("Ваше число меньше нуля");
+}
+else
+{
+    for (int i = 1; i < numbN; i++)
+    {
+        Console.Write(Math.Pow(i, 3) + ", ");
+    }
+    Console.WriteLine($"{Math.Pow(numbN, 3)}, ");
+}
+
+
