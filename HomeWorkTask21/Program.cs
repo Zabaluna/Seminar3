@@ -13,7 +13,7 @@ Console.WriteLine("Введите X первой точки ");
 int userXa = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите Y первой точки ");
 int userYa = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine("Введите Y первой точки ");
+Console.WriteLine("Введите Z первой точки ");
 int userZa = Convert.ToInt32(Console.ReadLine());
 
 Console.WriteLine("Введите X второй точки ");
